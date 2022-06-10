@@ -6,7 +6,7 @@ Web and Mobile Application Developer
 
 I am a web and mobile application developer with a background in Engineering. I am passionate about learning and really optimistic about life and it is my earnest desire to build tools and design systems that make life and living a whole lot better. Feel free to peruse!
 
-* 🌍  I'm based in Port Harcourt, Nigeria
+* 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [jamesjaml007@gmail.com](mailto:jamesjaml007@gmail.com)
 * 🚀  I'm currently working on [naborhood automobile services management application](http://naborhoodauto.com)
 * 🧠  I'm learning FastAPI and Python
