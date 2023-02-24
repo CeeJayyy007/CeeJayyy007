@@ -8,7 +8,6 @@ I am a web and mobile application developer with a background in Engineering. I 
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [jamesjaml007@gmail.com](mailto:jamesjaml007@gmail.com)
-* 🧠  I'm learning FastAPI and Python
 * 🤝  I'm open to collaborating on OpenSource projects, volunteering on projects with the aim of impacting lives and assisting with teaching and guidance for anyone interested in delving into the interesting world of coding
 * ⚡  I'm full of life and I aim to spread cheer wherever I go; issues and bugs may break my code but giving up or quitting is one thing I never do : )
 
