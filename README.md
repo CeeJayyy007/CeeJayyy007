@@ -45,5 +45,5 @@ I am a web and mobile application developer with a background in Engineering. I 
 
 <a href="http://www.github.com/CeeJayyy007"><img src="https://github-readme-stats.vercel.app/api?username=CeeJayyy007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CeeJayyy007's GitHub stats" /></a>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CeeJayyy007&hide_border=true&stroke=FFFFFF&background=1C1917&ring=0891B2&fire=0891B2&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CeeJayyy007&hide_border=true&stroke=FFFFFF&background=1C1917&ring=0891B2&fire=0891B2&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
